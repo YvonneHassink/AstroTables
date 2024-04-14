@@ -4,7 +4,7 @@ Astro Tables: iOS game helping children practice times tables
 ---
 # Support Policy for Astro Tables
 
-If you have any questions or support requests for Astro Tables, please submit an issue using GitHubs issue system in the top left corner of this page. Please describe your issue in detail and I will get back on it as soon as possible.
+If you have any questions or support requests for Astro Tables, please submit an issue using GitHubs issue system in the top left corner of this page. Please describe your issue in detail and I will respond as soon as possible.
 
 # Privacy Policy for Astro Tables
 
